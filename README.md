@@ -11,7 +11,7 @@
 
 - 📍 All of my projects are available at [https://github.com/tahscene](https://github.com/tahscene)
 
-- 📧 Reach out to me at **https://shujaanat06@gmail.com**
+- 📧 Reach out to me at **shujaanat06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
