@@ -19,7 +19,7 @@
 I'm always excited to collaborate on AI projects, open-source contributions, or any innovative tech ideas. Feel free to reach out!
 
 
-> "The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt
+> "When you want something, all the universe conspires in helping you to achieve it." – Paulo Coelho
 
 
 <!---
