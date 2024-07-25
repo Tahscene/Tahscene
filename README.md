@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm Tahsin Shuborna👋</h1>
+<h1 align="center">Hi there, I'm Tahsin Shuborna 🫰</h1>
 <h3 align="center">🌟 A dedicated CSE student aspiring to excel in AI engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahscene&label=Profile%20views&color=0e75b6&style=flat" alt="tahscene" /> </p>
 
-- 🔭 I am actively engaged in **both university and AI projects, enhancing my skills and knowledge in computer science and artificial intelligence**
+- 🎯 I am actively engaged in **both university and AI projects, enhancing my skills and knowledge in computer science and artificial intelligence**
 
-- 🌱 I’m currently learning **AI frameworks as a beginner, focusing on TensorFlow, PyTorch, and Keras. Additionally, I am developing skills in machine learning, neural networks, deep learning, natural language processing, and computer vision.**
+- 💡 I’m currently learning **AI frameworks as a beginner, focusing on TensorFlow, PyTorch, and Keras. Additionally, I am developing skills in machine learning, neural networks, deep learning, natural language processing, and computer vision.**
 
-- 🤝 I'm always excited to collaborate on **any open-source contributions, or any innovative tech ideas. Feel free to reach out!**
+- 🪻 I'm always excited to collaborate on **any open-source contributions, or any innovative tech ideas. Feel free to reach out!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tahscene](https://github.com/tahscene)
+- 📌 All of my projects are available at [https://github.com/tahscene](https://github.com/tahscene)
 
 - 📫 How to reach me **https://shujaanat06@gmail.com**
 
