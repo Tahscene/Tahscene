@@ -9,7 +9,7 @@
 
 - 🪻 I'm always excited to collaborate on **any open-source contributions, or any innovative tech ideas. Feel free to reach out!**
 
-- 📌 All of my projects are available at [https://github.com/tahscene](https://github.com/tahscene)
+- 📍 All of my projects are available at [https://github.com/tahscene](https://github.com/tahscene)
 
 - 📧 Reach out to me at **https://shujaanat06@gmail.com**
 
