@@ -4,9 +4,9 @@
 ![Project GIF](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6a106a115861033.60806df8afa2e.gif)
 
 
-As a passionate Computer Science Engineering student, I’m deeply interested in Artificial Intelligence and Software Development. 🤖💡 My studies have been exciting, giving me many chances to grow my technical skills and learn new things. I code in languages like C, C++, Java, Python; and I’m starting to explore AI engineering. 💻🚀 I’ve gained experience with key AI tools like TensorFlow and PyTorch, and I use data analysis tools such as Jupyter Notebook and Pandas. I’m also familiar with cloud platforms like Google Cloud and AWS, which help me with AI projects.
+As a passionate Computer Science Engineering student, I’m deeply interested in Artificial Intelligence and Software Development 🤖💻. My studies have been exciting ✨, giving me many chances to grow my technical skills and learn new things. I code in languages like C, C++, Java, Python; and I’m starting to explore AI engineering 🔍🚀. I’ve gained experience with key AI tools like TensorFlow and PyTorch, and I use data analysis tools such as Jupyter Notebook and Pandas. I’m also familiar with cloud platforms like Google Cloud and AWS, which help me with AI projects.
 
-Looking ahead, I’m excited to find opportunities that match my interests in AI and Software Development. If you want to connect, collaborate, or talk about the latest tech trends, let’s get in touch. Let’s create something amazing together! 🚀💬
+Looking ahead, I’m excited to find opportunities that match my interests in AI and Software Development 💥. If you want to connect, collaborate, or talk about the latest tech trends, let’s get in touch. Let’s create something amazing together! 💞🤝
 
 
 - 📧 Reach out to me at **shujaanat06@gmail.com**
