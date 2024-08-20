@@ -1,5 +1,7 @@
 ### Hi there, I'm Tahsin Shuborna 🫰
-#### I am a Research Enthusiast | CSE @AUST | Bridging Tech & Creativity in AI and Software Development
+
+#### I am a Research Enthusiast | CSE @AUST | Bridging Tech & Creativity in AI and Software Development 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahscene&label=Profile%20views&color=0e75b6&style=flat" alt="tahscene" /> </p>
 
 ![Project GIF](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/6a106a115861033.60806df8afa2e.gif)
 
