@@ -8,13 +8,11 @@
 <td>
 <p align="left">
 <h3 align="left">Meet me:</h3>
-Being a final-year Computer Science and Engineering student, I’m deeply passionate about Artificial Intelligence and Software Development. Throughout my academic journey, I’ve developed a strong foundation in programming, while working on both academic and personal projects that allowed me to lead teams and implement innovative solutions.
+I’m a 4th year Computer Science student, ready to step into the professional world after years of learning, researching and (yes) having enough fun, I’m now serious about building my career. I’ve always believed that learning isn’t just about grades but in my case, it’s both. My grades have been strong enough to qualify me as a future university teacher. I’ve proven I can stay disciplined in academics, but what excites me most is what’s beyond the classroom.
 
-My interest in AI has led me to explore core areas like reinforcement learning, where I’m conducting research on algorithms such as Q-Learning and Deep Q-Networks (DQN), aiming to apply them in real-world applications like game AI and robotics. I’ve also worked with tools and platforms like Google Colab, Jupyter Notebook, and cloud services including Google Cloud and AWS to support my AI projects.
+I love asking questions that don’t have simple answers. These curiosities drive my research. At the same time, I find joy in mentoring & team leadership, take group projects, for example. Officially, we were a team of three. Unofficially? Let’s just say I got very good at being the team lead, developer, tester and project manager: all at once. It taught me leadership, patience and how to deliver even when the odds weren’t fair.
 
-In addition to AI, I’ve built several full-stack software projects which extended my skills on web technologies like HTML, CSS, PHP, React.js, and Node.js, as well as database systems like MySQL and MongoDB.
-
-With hands-on experience in Git, GitHub, Android Studio, Visual Studio and Microsoft Office tools, I’m always eager to take on new challenges and collaborate on meaningful tech-driven solutions. If you’re interested in AI, software development, or just want to talk tech, feel free to connect with me — I’d love to chat and build something impactful together! 
+Now, I’m eager to bring this mix of discipline, curiosity & communication into a professional role where I can keep learning, make a real impact and grow with a team that values both thinking and doing. So, I’m ready to roll up my sleeves & make a difference from day one.
 </p>
 </td>
 <td>
@@ -32,6 +30,14 @@ With hands-on experience in Git, GitHub, Android Studio, Visual Studio and Micro
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-0A0A0A?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explainable_AI-6C63FF?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,8 +47,6 @@ With hands-on experience in Git, GitHub, Android Studio, Visual Studio and Micro
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -60,7 +64,7 @@ With hands-on experience in Git, GitHub, Android Studio, Visual Studio and Micro
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+
 
 
 
