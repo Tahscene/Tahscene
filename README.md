@@ -8,7 +8,7 @@
 <td>
 <p align="left">
 <h3 align="left">Meet me:</h3>
-I’m a 4th year Computer Science student, ready to step into the professional world after years of learning, researching and (yes) having enough fun, I’m now serious about building my career. I’ve always believed that learning isn’t just about grades but in my case, it’s both. My grades have been strong enough to qualify me as a future university teacher. I’ve proven I can stay disciplined in academics, but what excites me most is what’s beyond the classroom.
+I’m a Computer Science grauduate, ready to step into the professional world after years of learning, researching and (yes) having enough fun, I’m now serious about building my career. I’ve always believed that learning isn’t just about grades but in my case, it’s both. My grades have been strong enough to qualify me as a future university teacher. I’ve proven I can stay disciplined in academics, but what excites me most is what’s beyond the classroom.
 
 I love asking questions that don’t have simple answers. These curiosities drive my research. At the same time, I find joy in mentoring & team leadership, take group projects, for example. Officially, we were a team of three. Unofficially? Let’s just say I got very good at being the team lead, developer, tester and project manager: all at once. It taught me leadership, patience and how to deliver even when the odds weren’t fair.
 
