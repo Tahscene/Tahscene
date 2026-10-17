@@ -17,7 +17,7 @@
 <a href="https://github.com/tahscene"><img src="divider_tracks.svg" width="100%" alt="divider" /></a>
 
 
-<h3 align="center">Technologies</h3>
+<h2 align="center">Technologies</h2>
 
 <table align="center" cellspacing="0" cellpadding="10">
   <tr>
@@ -65,65 +65,12 @@
 </p>
 
 <a href="https://github.com/tahscene"><img src="divider_pulse.svg" width="100%" alt="divider" /></a>
-
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<td width="33%" valign="top">
-
-<h2>Collaboration</h2>
-
-I am open to collaborating on:
-
-<ul>
-  <li>Telco data analytics</li>
-  <li>Banking data analytics</li>
-  <li>AI integrated development</li>
-  <li>Research and papers</li>
-</ul>
-
-</td>
-
-<td width="34%" align="center" valign="middle">
-  <a href="mailto:shujaanat06@gmail.com">
-    <img src="collab_panel.svg" width="200px" alt="Collaboration panel" />
-  </a>
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<h2>Contact</h2>
-
-<br>
-
-<a href="mailto:shujaanat06@gmail.com">
-  <img src="https://img.shields.io/badge/email-shujaanat06@gmail.com-f2a6c8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<br><br>
-
-<a href="https://www.linkedin.com/in/tahsin-shuborna-shujaana/">
-  <img src="https://img.shields.io/badge/linkedin-tahsin--shuborna--shujaana-b57edc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<br><br>
-
-<a href="https://github.com/tahscene">
-  <img src="https://img.shields.io/badge/github-tahscene-6fcf9f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<a href="https://github.com/tahscene"><img src="divider_tracks.svg" width="100%" alt="divider" /></a>
-
 <p align="center">
-Building AI integrated systems and turning data into decisions
-</p>
-<p align="center">
-Star the repos if they helped you!
+  <a href="mailto:shujaanat06@gmail.com"><img src="collab_panel.svg" width="300" alt="Collaboration" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8c8dc,50:d8c4f0,100:a8e6cf&height=100&section=footer&width=100" alt="Profile footer wave"/>
+  <a href="https://www.linkedin.com/in/tahsin-shuborna-shujaana/"><img src="btn_linkedin.svg" width="30%" alt="LinkedIn" /></a>
+  <a href="mailto:shujaanat06@gmail.com"><img src="btn_email.svg" width="30%" alt="Email" /></a>
+  <a href="https://github.com/tahscene"><img src="btn_github.svg" width="30%" alt="GitHub" /></a>
 </p>
