@@ -1,18 +1,5 @@
 
-
-
-<a href="https://github.com/tahscene"><img src="divider_pulse.svg" width="100%" alt="divider" /></a>
-
-
-
-<p align="center">
-  <a href="https://github.com/tahscene?tab=repositories">
-    <img width="34%" src="explore_button.svg" alt="Explore Repositories" />
-  </a>
-</p>
-
 <a href="https://github.com/tahscene"><img src="divider_tracks.svg" width="100%" alt="divider" /></a>
-
 
 <p align="center">
   <img src="tech_title.svg" width="260" alt="Technologies" />
