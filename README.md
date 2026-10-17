@@ -6,19 +6,7 @@
 
 <a href="https://github.com/tahscene"><img src="divider_pulse.svg" width="100%" alt="divider" /></a>
 
-<p align="center">
-  <img src="what_i_do_title.svg" width="100%" alt="What I work on" />
-</p>
 
-<p align="center">
-  <img width="82%" src="portal_main.svg" alt="Data portal" />
-</p>
-
-<p align="center">
-<a href="https://github.com/tahscene?tab=repositories"><img width="32%" src="telco_card.svg" alt="Telco Analytics" /></a>
-<a href="https://github.com/tahscene?tab=repositories"><img width="32%" src="banking_card.svg" alt="Banking Analytics" /></a>
-<a href="https://github.com/tahscene?tab=repositories"><img width="32%" src="ai_card.svg" alt="AI Development" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/tahscene?tab=repositories">
