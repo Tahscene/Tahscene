@@ -1,0 +1,6 @@
+<svg width="440" height="110" viewBox="0 0 440 110" xmlns="http://www.w3.org/2000/svg"><defs>
+<linearGradient id="g1" x1="0" y1="0" x2="440" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="reflect"><stop offset="0%" stop-color="#ff5fa2"/><stop offset="50%" stop-color="#b66cf5"/><stop offset="100%" stop-color="#16d39a"/><animateTransform attributeName="gradientTransform" type="translate" values="-140 0;140 0;-140 0" dur="9s" repeatCount="indefinite"/></linearGradient>
+<style>text{font-family:'Segoe UI',Arial,sans-serif;fill:#fff}</style></defs>
+<rect width="440" height="110" rx="55" fill="url(#g1)"/>
+<circle cx="55" cy="55" r="34" fill="#fff"/><svg x="33" y="33" width="44" height="44" viewBox="0 0 24 24"><path fill="#EA4335" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
+<text x="106" y="52" font-size="32" font-weight="900">Email</text><text x="106" y="82" font-size="20" font-weight="700">shujaanat06@gmail.com</text></svg>
