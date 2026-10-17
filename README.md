@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="start_here.svg" width="92%" alt="Start here" />
-</p>
 
 
 <a href="https://github.com/tahscene"><img src="divider_pulse.svg" width="100%" alt="divider" /></a>
