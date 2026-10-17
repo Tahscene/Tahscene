@@ -1,39 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8c8dc,50:d8c4f0,100:a8e6cf&height=250&section=header&text=Tahsin&fontSize=70&fontColor=7a5ca8&animation=twinkling" alt="Tahsin profile header" />
-</p>
-
-<h3 align="center">
-  <samp>
-    &gt; Hey There!, I am
-    <b><a target="_blank" href="https://www.linkedin.com/in/tahsin-shuborna-shujaana/">Tahsin</a></b>
-  </samp>
-</h3>
-
-<br>
-
-<p align="center">
-<samp>
-Computer Science graduate turning telco and banking data into decisions, and building AI integrated systems
-</samp>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Telco%20Analytics-f2a6c8?style=flat-square" alt="Telco Analytics" />
-  <img src="https://img.shields.io/badge/Banking%20Analytics-b57edc?style=flat-square" alt="Banking Analytics" />
-  <img src="https://img.shields.io/badge/open%20to-collaboration-6fcf9f?style=flat-square" alt="Open to collaboration" />
-</p>
 
 <p align="center">
   <img src="start_here.svg" width="92%" alt="Start here" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/tahscene?tab=repositories"><b>Repositories</b></a>
-  &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/tahsin-shuborna-shujaana/"><b>LinkedIn</b></a>
-  &nbsp;|&nbsp;
-  <a href="mailto:shujaanat06@gmail.com"><b>Contact</b></a>
-</p>
 
 <a href="https://github.com/tahscene"><img src="divider_pulse.svg" width="100%" alt="divider" /></a>
 
