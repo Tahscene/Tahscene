@@ -17,7 +17,9 @@
 <a href="https://github.com/tahscene"><img src="divider_tracks.svg" width="100%" alt="divider" /></a>
 
 
-<h2 align="center">Technologies</h2>
+<p align="center">
+  <img src="tech_title.svg" width="260" alt="Technologies" />
+</p>
 
 <table align="center" cellspacing="0" cellpadding="10">
   <tr>
@@ -61,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahscene&label=PROFILE%20VIEWS&color=b57edc&style=flat-square" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=tahscene&label=PROFILE%20VIEWS&color=ff3d9a&style=for-the-badge" alt="Views" />
 </p>
 
 <a href="https://github.com/tahscene"><img src="divider_pulse.svg" width="100%" alt="divider" /></a>
