@@ -51,21 +51,37 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tahscene&background=FFF5F9&border=EAD7F5&stroke=EAD7F5&ring=B57EDC&fire=F2A6C8&currStreakNum=7A5CA8&sideNums=7A5CA8&currStreakLabel=2E9E74&sideLabels=6B5B7B&dates=6B5B7B" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=tahscene&background=45,ff5fa2,b66cf5&border=16D39A&stroke=FFFFFF&ring=FFFFFF&fire=FFE066&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&borderRadius=20" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahscene&theme=default&hide_border=false" alt="GitHub profile summary" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tahscene&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,ff5fa2,b66cf5&title_color=ffffff&text_color=ffffff&icon_color=ffe066&border_color=16d39a&border_radius=20" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahscene&layout=compact&bg_color=45,ff5fa2,b66cf5&title_color=ffffff&text_color=ffffff&border_color=16d39a&border_radius=20" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tahscene&show_icons=true&include_all_commits=true&count_private=true&theme=default&title_color=b57edc&text_color=6b5b7b&icon_color=f2a6c8&bg_color=fff5f9&border_color=ead7f5" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahscene&layout=compact&theme=default&title_color=b57edc&text_color=6b5b7b&icon_color=f2a6c8&bg_color=fff5f9&border_color=ead7f5" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahscene&theme=radical" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=tahscene&label=PROFILE%20VIEWS&color=ff3d9a&style=for-the-badge" alt="Views" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahscene&theme=radical" alt="Repos per language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahscene&theme=radical" alt="Most commit language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahscene&theme=radical&utcOffset=6" alt="Productive time" />
 </p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahscene&bg_color=9b5de5&color=ffffff&line=ff9ccf&point=16d39a&area=true&area_color=c77dff&title_color=ffffff&hide_border=true&radius=20" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tahscene&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahscene&label=PROFILE%20VIEWS&color=ff3d9a&style=for-the-badge" alt="Views" />
+</p>
+
+
 
 <a href="https://github.com/tahscene"><img src="divider_pulse.svg" width="100%" alt="divider" /></a>
 <p align="center">
