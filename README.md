@@ -46,8 +46,9 @@
 </table>
 
 <a href="https://github.com/tahscene"><img src="divider_tracks.svg" width="100%" alt="divider" /></a>
-
-<h3 align="center">Vital Statistics</h3>
+<p align="center">
+  <img src="vital_title.svg" width="320" alt="Vital Statistics" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tahscene&background=FFF5F9&border=EAD7F5&stroke=EAD7F5&ring=B57EDC&fire=F2A6C8&currStreakNum=7A5CA8&sideNums=7A5CA8&currStreakLabel=2E9E74&sideLabels=6B5B7B&dates=6B5B7B" alt="Streak" />
