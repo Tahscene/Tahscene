@@ -59,8 +59,7 @@
 
 <a href="https://github.com/tahscene"><img src="divider_tracks.svg" width="100%" alt="divider" /></a>
 <p align="center">
-  <a href="mailto:shujaanat06@gmail.com"><img src="collab_panel.svg" width="300" alt="Collaboration" /></a>
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tahsin-shuborna-shujaana/"><img src="btn_linkedin.svg" width="30%" alt="LinkedIn" /></a>
