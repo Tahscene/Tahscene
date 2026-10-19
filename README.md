@@ -1,6 +1,4 @@
 
-<a href="https://github.com/tahscene"><img src="divider_tracks.svg" width="100%" alt="divider" /></a>
-
 <p align="center">
   <img src="tech_title.svg" width="260" alt="Technologies" />
 </p>
@@ -59,7 +57,7 @@
 
 
 
-<a href="https://github.com/tahscene"><img src="divider_pulse.svg" width="100%" alt="divider" /></a>
+<a href="https://github.com/tahscene"><img src="divider_tracks.svg" width="100%" alt="divider" /></a>
 <p align="center">
   <a href="mailto:shujaanat06@gmail.com"><img src="collab_panel.svg" width="300" alt="Collaboration" /></a>
 </p>
