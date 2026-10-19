@@ -35,12 +35,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tahscene&background=45,ff5fa2,b66cf5&border=16D39A&stroke=FFFFFF&ring=FFFFFF&fire=FFE066&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&borderRadius=20" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=tahscene&background=45,ff5fa2,b66cf5&border=16D39A&stroke=1a1a2e&ring=1a1a2e&fire=1a1a2e&currStreakNum=1a1a2e&sideNums=1a1a2e&currStreakLabel=1a1a2e&sideLabels=1a1a2e&dates=2d2d44&borderRadius=20" alt="Streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tahscene&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,ff5fa2,b66cf5&title_color=ffffff&text_color=ffffff&icon_color=ffe066&border_color=16d39a&border_radius=20" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahscene&layout=compact&bg_color=45,ff5fa2,b66cf5&title_color=ffffff&text_color=ffffff&border_color=16d39a&border_radius=20" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tahscene&show_icons=true&include_all_commits=true&count_private=true&bg_color=45,ff5fa2,b66cf5&title_color=1a1a2e&text_color=1a1a2e&icon_color=1a1a2e&border_color=16d39a&border_radius=20" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahscene&layout=compact&bg_color=45,ff5fa2,b66cf5&title_color=1a1a2e&text_color=1a1a2e&border_color=16d39a&border_radius=20" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -51,14 +51,6 @@
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahscene&theme=radical" alt="Repos per language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahscene&theme=radical" alt="Most commit language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahscene&theme=radical&utcOffset=6" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tahscene&bg_color=9b5de5&color=ffffff&line=ff9ccf&point=16d39a&area=true&area_color=c77dff&title_color=ffffff&hide_border=true&radius=20" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahscene&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 <p align="center">
